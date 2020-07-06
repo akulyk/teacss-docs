@@ -1,5 +1,5 @@
 # teacss-docs
-This is a small website about how to use (teacss)[https://github.com/boomyjee/teacss]
+This is a small website about how to use [teacss](https://github.com/boomyjee/teacss)
 
 ## Use
 just open /index.html file
