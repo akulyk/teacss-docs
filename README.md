@@ -1,4 +1,7 @@
 # teacss-docs
+
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)
+
 This is a small website about how to use [teacss](https://github.com/boomyjee/teacss)
 
 ## Use
@@ -19,3 +22,8 @@ between ```body``` tags in `/build/index.php` file:
 ```html
 <h1>Build page for teacss-docs</h1>
 ```
+
+
+### License
+
+Plugin is [MIT licensed](./LICENSE).
